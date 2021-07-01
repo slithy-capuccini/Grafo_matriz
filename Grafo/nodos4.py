@@ -12,7 +12,7 @@ end_text=']'
 camino=[]
 
 
-lines = open('E:\\Games\\1.LA CARPETA\\Programacion\\Jesus\\matrix.txt','r')
+lines = open('E:\\Games\\1.LA CARPETA\\Programacion\\Jesus\\Grafo\\matrix.txt','r')
 for line in lines:
     line = line.split()
     Matrix.append(line)
