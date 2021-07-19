@@ -135,4 +135,5 @@ def segundo(node_inicio):
             print(L_Dist_final,camino_final)
             print(Fore.RED,'El segundo camino es',camino_final)
             print('El resultado del segundo camino es',L_Dist_final[node_final],Fore.WHITE)
+
 segundo(node_inicio)
