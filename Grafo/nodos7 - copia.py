@@ -6,9 +6,6 @@ from colorama import Fore
        [100,6,100,0,9],
        [100,8,4,9,0]]"""
 Matrix=[]
-cont=0
-append_text='['
-end_text=']'
 camino=[]
 """
 
